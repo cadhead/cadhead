@@ -4,7 +4,7 @@ I'm cadhead and i write some code on javascript/typescript. Not professional dev
 
 // TODO:
 
-- ❌ Made an alpha version of my pet project [cyberia](https://github.com/cadhead/cyberia)
+- ❌ Made an alpha version of my pet project [cyberia](@cadhead/cyberia)
 - ❌ Learn an English to an acceptable level
 - ❌ Will try to get a job as a Frontend Web Developer
  
