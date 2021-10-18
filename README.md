@@ -2,8 +2,6 @@ Hello there.
 
 I'm cadhead and i write some code on javascript/typescript. Not professional developer right now, but maybe some day.
 
-@test
-
 // TODO:
 
 - ❌ Made an alpha version of my pet project [https://github.com/cadhead/cyberia](cyberia)
