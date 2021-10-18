@@ -4,11 +4,11 @@ I'm cadhead and i write some code on javascript/typescript. Not professional dev
 
 // TODO:
 
-- ◻ Made an alpha version of my pet project [https://github.com/cadhead/cyberia](cyberia)
-- ◻ Learn an English to an acceptable level
-- ◻ Will try to get a job as a Frontend Web Developer
+- ❌ Made an alpha version of my pet project [https://github.com/cadhead/cyberia](cyberia)
+- ❌ Learn an English to an acceptable level
+- ❌ Will try to get a job as a Frontend Web Developer
  
 // LATEST ACTIVITIES:
-- ◻ [https://github.com/cadhead/cyberia](cyberia)
-- ◻
-- ◻
+- [https://github.com/cadhead/cyberia](cyberia)
+-
+-
