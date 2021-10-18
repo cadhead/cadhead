@@ -2,7 +2,7 @@ Hello there.
 
 I'm cadhead and i write some code on javascript/typescript. Not professional developer right now, but maybe some day.
 
-#test
+@test
 
 // TODO:
 
