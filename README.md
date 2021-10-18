@@ -9,6 +9,6 @@ I'm cadhead and i write some code on javascript/typescript. Not professional dev
 - ❌ Will try to get a job as a Frontend Web Developer
  
 // LATEST ACTIVITIES:
-- [cyberia](https://github.com/cadhead/cyberia)
+- working on [cyberia](https://github.com/cadhead/cyberia) every day
 -
 -
