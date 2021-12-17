@@ -10,5 +10,5 @@ I'm cadhead and i write some code on javascript/typescript. Not professional dev
  
 // LATEST ACTIVITIES:
 - working on [cyberia](https://github.com/cadhead/cyberia) kinda every day
--
+- closed gamemode development for the SA:MP
 -
